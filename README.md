@@ -1,2 +1,2 @@
 # Harden-Airlines
-Repository for demo airlines application built in Django.
+Demo Airlines Application built in Django.
